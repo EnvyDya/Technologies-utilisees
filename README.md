@@ -10,6 +10,7 @@
   - Requêtes SQL (Sélections et insertions)
   - Utilisation de Poetry
   - Utilisation d'outils de DataViz pour améliorer les performances d'un script
+  - Mise en place d'un modèle de Speech to Text à partir de travaux existants (modèle VOSK)
   
 ## Java
 
@@ -39,3 +40,4 @@
   - Méthode Agile
   - Formation RGPD/Cybersécurité/Lutte contre la fraude
   - Politiques de sécurisation des usages de la donnée
+  - Analyse des métriques d'une base de données dans le cadre de la mesure de qualité
