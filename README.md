@@ -12,6 +12,7 @@
   - Utilisation d'outils de DataViz pour améliorer les performances d'un script
   - Mise en place d'un modèle de Speech to Text à partir de travaux existants (modèle VOSK)
   - Récupération de modèles Open pour mise en place en local
+  - Mise en place en local de LLM (Llama2 et GPT) pour tests d'inférence sur CPU
   - Utilisation de WhisperAI pour le Speech To Text
   - Création de modèles XGBoost dans un cadre de hackathon
   - Utilisation d'un package d'AutoML pour du NLP
